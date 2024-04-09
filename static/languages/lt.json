@@ -1,6 +1,6 @@
 {
   "heading": "Kuri šalis pirmauja pagal imigraciją iš ES nepriklausančių šalių?",
-  "subheading": "Apskaičiuota, kad 2022 m. 1000 ES gyventojų teko 11 imigrantų iš ne ES šalių. Palyginti su nuolatinių gyventojų skaičiumi, 2022 m. Maltoje užfiksuotas didžiausias imigracijos iš ES ir ne ES šalių lygis (66 imigrantai 1 000 gyventojų). Priešingai, Slovakijoje užregistruotas mažiausias imigracijos lygis – 1 imigrantas tenka 1 000 gyventojų.",
+  "subheading": "Apskaičiuota, kad 2022 m. 1000 ES gyventojų teko 11 imigrantų iš ne ES šalių. Maltoje 2022 m. užfiksuotas didžiausias imigracijos iš ES ir ne ES šalių lygis (66 imigrantai 1 000 gyventojų). Priešingai, Slovakijoje užregistruotas mažiausias imigracijos lygis – 1 imigrantas 1 000 gyventojų.",
   "legend1": "Nėra duomenų",
   "tooltip1": "1000 gyventojų",
   "textSourceDescription": "Šaltinis",
@@ -9,23 +9,5 @@
   "textNote": "Bulgarija, Lenkija, Portugalija, Slovakija, Suomija, Švedija ir Lichtenšteinas į savo gyventojų skaičių ir migracijos statistiką neįtraukė pabėgėlių iš Ukrainos, kuriems taikoma laikina apsauga.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_BE": "Kadangi vienbalsiškumo poreikis sukelia biurokratinę kliūtį daugelyje sričių, yra tam tikra logika, kai įmanoma, pereinant prie kvalifikuotos balsų daugumos balsavimo. Praktiškai kvalifikuota balsų dauguma yra tada, kai 15 iš 27 valstybių narių balsuoja už ką nors, kol jos kartu atstovauja daugiau nei 65 procentus iš 450 mln. ES piliečių.",
-  "extraInfoLink_BE": "Skaityti daugiau",
-  "extraInfoText_DE": "Tikriausiai neatsitiktinai, praėjus vos dviem dienoms, Europos Komisija paskelbė, kad pagaliau suaktyvins sąlygų mechanizmą, susiejantį ES lėšų išmokėjimą su teisinės valstybės principų laikymusi. Budapeštas sulaukia kritikos dėl žiniasklaidos laisvės apribojimų, interesų konfliktų ir korupcijos.",
-  "extraInfoLink_DE": "Skaityti daugiau",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "Atsižvelgdama į tai, Bulgarijos vyriausybė įsteigė naują žiniasklaidos stebėjimo padalinį. Naujasis padalinys skirtas stebėti visų formų žiniasklaidą dėl tikslinės dezinformacijos, tačiau, skirtingai nei šalies nepriklausoma elektroninės žiniasklaidos taryba, neturi teisės reguliuoti ar bausti. Ir taip pat neturėtų būti, interviu Bulgarijos nacionaliniam radijui pabrėžia Božanovas.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Slovėnijos užsienio reikalų ministerijos valstybės sekretorius ir Konferencijos komiteto narys Gašperas Dovžanas sako, kad Slovėnija tikrai nevengia drąsių sprendimų ir neatmeta galimybės pereiti prie kvalifikuotos daugumos. Tačiau jis mano, kad dar yra kur priimti bendrus sprendimus.",
-  "extraInfoLink_IT": "Daugiau informacijos",
-  "extraInfoText_LU": "Tačiau europarlamentaras iš Liuksemburgo Marcas Angelas įsitikinęs, kad Sutarties pakeitimai yra būtini – ne tik tam, kad sprendimų priėmimo procedūros būtų mažiau sudėtingos, bet ir išplėstų ES kompetencijos sritį. Interviu Liuksemburgo nacionaliniam transliuotojui 100,7 jis tvirtina, kad ES piliečiai to aiškiai prašė konferencijos metu.",
-  "extraInfoLink_LU": "Skaityti daugiau",
-  "extraInfoText_PL": "Vilniaus universiteto politikos mokslų profesorius Liutauras Gudzinskas „Žinių radijui“ sako, kad nors Europos Komisijos siūlymas stiprinti žiniasklaidos pliuralizmą ir nepriklausomybę bei apsaugoti ją nuo politinio ar verslo kišimosi galėtų būti naudinga prevencinė priemonė daugelyje šalių, tikėtina, kad per vėlu Vengrijai.",
-  "extraInfoLink_PL": "Daugiau informacijos",
-  "extraInfoText_RO": "Nors Pasaulinė spaudos laisvės diena minima gegužės 3 d., Lietuva kasmet švenčia spaudos laisvę gegužės 7 d., nes ši data žymi caro laikų draudimo leisti ir platinti knygas lietuvių kalba pabaigą.",
-  "extraInfoLink_RO": "Patikrink Tai",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

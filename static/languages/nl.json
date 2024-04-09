@@ -1,6 +1,6 @@
 {
   "heading": "Welk land is koploper in de immigratie uit niet-EU-landen naar de EU?",
-  "subheading": "In 2022 waren er naar schatting 11 immigranten uit niet-EU-landen per 1 000 inwoners van de EU. In verhouding tot de omvang van de ingezeten bevolking registreerde Malta in 2022 het hoogste immigratiepercentage uit EU- en niet-EU-landen (66 immigranten per 1 000 inwoners). Daarentegen registreerde Slowakije het laagste immigratiepercentage, met 1 immigrant per 1.000 inwoners.",
+  "subheading": "In 2022 waren er naar schatting 11 immigranten uit niet-EU-landen per 1 000 inwoners van de EU. Malta registreerde in 2022 het hoogste immigratiepercentage uit EU- en niet-EU-landen (66 immigranten per 1 000 inwoners). Daarentegen registreerde Slowakije het laagste immigratiepercentage, met 1 immigrant per 1 000 inwoners.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "per 1000 inwoners",
   "textSourceDescription": "Bron",
@@ -9,23 +9,5 @@
   "textNote": "Bulgarije, Polen, Portugal, Slowakije, Finland, Zweden en Liechtenstein hebben in hun bevolkings- en migratiestatistieken geen vluchtelingen uit Oekraïne opgenomen die tijdelijke bescherming genieten.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Klik voor meer informatie",
-  "extraInfoText_BE": "Omdat de behoefte aan unanimiteit op veel gebieden een bureaucratisch knelpunt veroorzaakt, schuilt er een zekere logica achter het streven naar stemming met gekwalificeerde meerderheid waar mogelijk. In de praktijk is er sprake van een gekwalificeerde meerderheid als 15 van de 27 lidstaten vóór iets stemmen, zolang ze samen meer dan 65 procent van de 450 miljoen burgers van de EU vertegenwoordigen.",
-  "extraInfoLink_BE": "Lees verder",
-  "extraInfoText_DE": "Het is waarschijnlijk geen toeval dat de Europese Commissie slechts twee dagen later aankondigde dat zij eindelijk het conditionaliteitsmechanisme in werking zou stellen, dat de betaling van EU-fondsen koppelt aan respect voor de rechtsstaat. Boedapest krijgt te maken met kritiek vanwege de beperkingen van de mediavrijheid, belangenconflicten en corruptie.",
-  "extraInfoLink_DE": "Lees verder",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "In deze context heeft de Bulgaarse regering een nieuwe mediamonitoringeenheid opgericht. De nieuwe eenheid is ontworpen om alle vormen van media te controleren op gerichte desinformatie, maar heeft – in tegenstelling tot de onafhankelijke Raad voor Elektronische Media van het land – niet de macht om te reguleren of te bestraffen. En dat zou ook niet moeten, benadrukt Bozhanov in een interview op de Bulgaarse Nationale Radio.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, staatssecretaris van het Sloveense ministerie van Buitenlandse Zaken en lid van de Conferentiecommissie, zegt dat Slovenië moedige beslissingen zeker niet schuwt en de mogelijkheid van een stap in de richting van gekwalificeerde meerderheden niet afwijst. Hij is echter van mening dat er nog steeds ruimte is voor consensusbesluitvorming.",
-  "extraInfoLink_IT": "Meer informatie",
-  "extraInfoText_LU": "Toch is het Luxemburgse EP-lid Marc Angel ervan overtuigd dat verdragswijzigingen absoluut noodzakelijk zijn – niet alleen om de besluitvormingsprocedures minder omslachtig te maken, maar ook om de bevoegdheden van de EU te verbreden. Hij stelt in een interview met de Luxemburgse nationale omroep 100,7 dat EU-burgers hier tijdens het conferentieproces duidelijk om hebben gevraagd.",
-  "extraInfoLink_LU": "Lees verder",
-  "extraInfoText_PL": "Liutauras Gudzinskas, hoogleraar politieke wetenschappen aan de Universiteit van Vilnius, vertelt Žinių Radijas dat hoewel het voorstel van de Europese Commissie om het pluralisme en de onafhankelijkheid van de media te versterken en deze te beschermen tegen politieke of zakelijke inmenging in veel landen een nuttig preventief instrument zou kunnen zijn, het waarschijnlijk is dat te laat voor Hongarije.",
-  "extraInfoLink_PL": "Meer informatie",
-  "extraInfoText_RO": "Hoewel het op 3 mei Werelddag van de Persvrijheid is, viert Litouwen ieder jaar op 7 mei de persvrijheid – omdat deze datum het einde markeert van het tsaristische verbod op de publicatie en distributie van boeken in het Litouws.",
-  "extraInfoLink_RO": "Check dit",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Klik voor meer informatie"
 }

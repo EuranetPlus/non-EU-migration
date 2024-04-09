@@ -1,6 +1,6 @@
 {
   "heading": "¿Qué país lidera la inmigración procedente de países no pertenecientes a la UE en la UE?",
-  "subheading": "En 2022, se estima que había 11 inmigrantes de países no pertenecientes a la UE por cada 1.000 residentes en la UE. En relación con el tamaño de la población residente, Malta registró la tasa más alta de inmigración procedente de países de la UE y de fuera de la UE en 2022 (66 inmigrantes por cada 1.000 residentes). Por el contrario, Eslovaquia registró la tasa de inmigración más baja, con 1 inmigrante por cada 1.000 residentes.",
+  "subheading": "En 2022, se estima que había 11 inmigrantes de países no pertenecientes a la UE por cada 1.000 residentes en la UE. Malta registró la tasa más alta de inmigración procedente de países de la UE y de fuera de la UE en 2022 (66 inmigrantes por cada 1.000 residentes). Por el contrario, Eslovaquia registró la tasa de inmigración más baja, con 1 inmigrante por cada 1.000 residentes.",
   "legend1": "Datos no disponibles",
   "tooltip1": "por 1000 habitantes",
   "textSourceDescription": "Fuente",
@@ -9,23 +9,5 @@
   "textNote": "Bulgaria, Polonia, Portugal, Eslovaquia, Finlandia, Suecia y Liechtenstein no incluyeron en sus estadísticas de población y migración a los refugiados de Ucrania que se benefician de protección temporal.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Haga clic para más información",
-  "extraInfoText_BE": "Dado que la necesidad de unanimidad provoca un cuello de botella burocrático en muchas áreas, existe cierta lógica en avanzar hacia la votación por mayoría cualificada siempre que sea posible. En la práctica, una mayoría cualificada es cuando 15 de los 27 Estados miembros votan a favor de algo, siempre que juntos representen a más del 65 por ciento de los 450 millones de ciudadanos de la UE.",
-  "extraInfoLink_BE": "Leer más",
-  "extraInfoText_DE": "Probablemente no sea coincidencia que, apenas dos días después, la Comisión Europea anunciara que finalmente activaría el mecanismo de condicionalidad, que vincula el pago de fondos de la UE al respeto del Estado de derecho. Budapest se enfrenta a críticas por restricciones a la libertad de prensa, conflictos de intereses y corrupción.",
-  "extraInfoLink_DE": "Leer más",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "En este contexto, el gobierno búlgaro ha creado una nueva unidad de seguimiento de los medios de comunicación. La nueva unidad está diseñada para monitorear todas las formas de medios de comunicación en busca de información errónea específica pero, a diferencia del independiente Consejo de Medios Electrónicos del país, no tiene el poder de regular o sancionar. Y tampoco debería ser así, subraya Bozhanov en una entrevista con la Radio Nacional de Bulgaria.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, secretario de Estado del Ministerio de Asuntos Exteriores de Eslovenia y miembro del comité de la Conferencia, dice que Eslovenia ciertamente no rehuye decisiones valientes ni rechaza la posibilidad de avanzar hacia mayorías cualificadas. Sin embargo, cree que todavía hay lugar para la toma de decisiones por consenso.",
-  "extraInfoLink_IT": "Más información",
-  "extraInfoText_LU": "Sin embargo, el eurodiputado luxemburgués Marc Angel está convencido de que es absolutamente necesario modificar los tratados, no sólo para hacer menos engorrosos los procedimientos de toma de decisiones, sino también para ampliar la esfera de competencia de la UE. Afirma, en una entrevista con la emisora nacional de Luxemburgo 100,7, que los ciudadanos de la UE claramente lo pidieron durante el proceso de la Conferencia.",
-  "extraInfoLink_LU": "Leer más",
-  "extraInfoText_PL": "Liutauras Gudzinskas, profesor de ciencias políticas en la Universidad de Vilnius, dice a Žinių Radijas que aunque la propuesta de la Comisión Europea para fortalecer el pluralismo y la independencia de los medios y protegerlos de la interferencia política o empresarial podría ser una herramienta preventiva útil en muchos países, es probable que demasiado tarde para Hungría.",
-  "extraInfoLink_PL": "Más información",
-  "extraInfoText_RO": "Aunque el 3 de mayo es el Día Mundial de la Libertad de Prensa, Lituania celebra la libertad de prensa cada año el 7 de mayo, porque esta fecha marca el fin de la prohibición zarista de la publicación y distribución de libros en lituano.",
-  "extraInfoLink_RO": "Mira esto",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Haga clic para más información"
 }

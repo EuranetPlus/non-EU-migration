@@ -1,6 +1,6 @@
 {
   "heading": "Liema pajjiż imexxi fl-immigrazzjoni minn pajjiżi mhux tal-UE fl-UE?",
-  "subheading": "Fl-2022, kien hemm madwar 11-il immigrant minn pajjiżi mhux tal-UE għal kull 1 000 resident fl-UE. Meta mqabbel mad-daqs tal-popolazzjoni residenti, Malta rreġistrat l-ogħla rata ta’ immigrazzjoni minn pajjiżi tal-UE u mhux tal-UE fl-2022 (66 immigrant għal kull 1 000 resident). B'kuntrast, is-Slovakkja rreġistrat l-inqas rata ta' immigrazzjoni, b'immigrant wieħed għal kull 1 000 resident.",
+  "subheading": "Fl-2022, kien hemm madwar 11-il immigrant minn pajjiżi mhux tal-UE għal kull 1 000 resident fl-UE. Malta rreġistrat l-ogħla rata ta’ immigrazzjoni minn pajjiżi tal-UE u mhux tal-UE fl-2022 (66 immigrant għal kull 1 000 resident). B'kuntrast, is-Slovakkja rreġistrat l-inqas rata ta' immigrazzjoni, b'immigrant wieħed għal kull 1 000 resident.",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "għal kull 1000 resident",
   "textSourceDescription": "Sors",
@@ -9,23 +9,5 @@
   "textNote": "Il-Bulgarija, il-Polonja, il-Portugall, is-Slovakkja, il-Finlandja, l-Isvezja u l-Liechtenstein ma inkludewx refuġjati mill-Ukrajna li jibbenefikaw minn protezzjoni temporanja fl-istatistika tagħhom dwar il-popolazzjoni u l-migrazzjoni.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
-  "extraInfoText_BE": "Bil-ħtieġa ta’ unanimità li tikkawża ostaklu burokratiku f’ħafna oqsma, hemm ċerta loġika li nimxu lejn votazzjoni b’maġġoranza kwalifikata fejn possibbli. Fil-prattika, maġġoranza kwalifikata hija meta 15 mis-27 stat membru jivvutaw favur xi ħaġa, sakemm flimkien jirrappreżentaw aktar minn 65 fil-mija tal-450 miljun ċittadin tal-UE.",
-  "extraInfoLink_BE": "Aqra iktar",
-  "extraInfoText_DE": "Probabbilment mhux ta’ b’xejn li, jumejn biss wara, il-Kummissjoni Ewropea ħabbret li fl-aħħar se tkun qed tiskatta l-mekkaniżmu ta’ kundizzjonalità, li jorbot il-ħlas tal-fondi tal-UE mar-rispett tal-istat tad-dritt. Budapest qed tiffaċċja kritika dwar ir-restrizzjonijiet fuq il-libertà tal-midja, il-kunflitti ta’ interess u l-korruzzjoni.",
-  "extraInfoLink_DE": "Aqra iktar",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "F'dan il-kuntest, il-gvern Bulgaru waqqaf unità ġdida ta' monitoraġġ tal-midja. L-unità l-ġdida hija mfassla biex timmonitorja l-forom kollha ta’ midja għal misinformazzjoni mmirata iżda – b’differenza mill-Kunsill indipendenti tal-pajjiż għall-Midja Elettronika – m’għandhiex is-setgħa li tirregola jew tissanzjona. U lanqas m'għandu, jenfasizza Bozhanov f'intervista fuq ir-Radju Nazzjonali Bulgaru.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, segretarju tal-istat fil-ministeru tal-Affarijiet Barranin tas-Slovenja u membru tal-kumitat tal-Konferenza, jgħid li s-Slovenja ċertament mhix qed toqgħod lura minn deċiżjonijiet kuraġġużi jew tirrifjuta l-possibbiltà ta’ pass lejn maġġoranzi kwalifikati. Madankollu, jemmen li għad hemm post għat-teħid ta’ deċiżjonijiet b’kunsens.",
-  "extraInfoLink_IT": "Iktar informazzjoni",
-  "extraInfoText_LU": "Madankollu l-MEP Lussemburgiż Marc Angel huwa konvint li l-bidliet fit-trattat huma assolutament meħtieġa – mhux biss biex il-proċeduri tat-teħid tad-deċiżjonijiet ikunu inqas ingombranti, iżda wkoll biex titwessa’ l-isfera ta’ kompetenza tal-UE. Huwa jsostni, f’intervista max-xandar nazzjonali tal-Lussemburgu 100,7, li ċ-ċittadini tal-UE talbu dan b’mod ċar waqt il-proċess tal-Konferenza.",
-  "extraInfoLink_LU": "Aqra iktar",
-  "extraInfoText_PL": "Liutauras Gudzinskas, professur tax-xjenza politika fl-Università ta’ Vilnius, jgħid lil Žinių Radijas li għalkemm il-proposta tal-Kummissjoni Ewropea biex issaħħaħ il-pluraliżmu u l-indipendenza tal-midja u tipproteġiha minn interferenza politika jew kummerċjali tista’ tkun għodda preventiva utli f’ħafna pajjiżi, x’aktarx li hija tard wisq għall-Ungerija.",
-  "extraInfoLink_PL": "Iktar informazzjoni",
-  "extraInfoText_RO": "Għalkemm huwa l-Jum Dinji tal-Libertà tal-Istampa fit-3 ta’ Mejju, il-Litwanja tiċċelebra l-libertà tal-istampa kull sena fis-7 ta’ Mejju – għaliex din id-data timmarka t-tmiem tal-projbizzjoni zarista fuq il-pubblikazzjoni u d-distribuzzjoni ta’ kotba bil-Litwan.",
-  "extraInfoLink_RO": "Iċċekkja dan",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
 }
