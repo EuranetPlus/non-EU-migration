@@ -1,14 +1,14 @@
 {
-  "heading": "Utgifterna för utbildning ökar i alla EU-länder",
-  "subheading": "Offentliga utgifter för militärt försvar i procent av BNP i länder i Europeiska unionen 2020",
+  "heading": "Vilket land leder i invandringen från länder utanför EU i EU?",
+  "subheading": "År 2022 uppskattningsvis fanns det 11 invandrare från länder utanför EU per 1 000 invånare i EU. I förhållande till storleken på den inhemska befolkningen registrerade Malta den högsta invandringstakten från EU-länder och länder utanför EU 2022 (66 invandrare per 1 000 invånare). Däremot registrerade Slovakien den lägsta invandringsgraden, med 1 invandrare per 1 000 invånare.",
   "legend1": "Ingen data tillgänglig",
-  "tooltip1": "av BNP",
+  "tooltip1": "per 1000 invånare",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Offentliga utgifter efter COFOG (UNSD-klassificering av statliga funktioner, replikerad i ESA2010) funktion och typ.",
+  "textNote": "Bulgarien, Polen, Portugal, Slovakien, Finland, Sverige och Liechtenstein inkluderade inte flyktingar från Ukraina som åtnjuter tillfälligt skydd i sin befolknings- och migrationsstatistik.",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Klicka för mer info",
   "extraInfoText_BE": "Eftersom behovet av enhällighet orsakar en byråkratisk flaskhals på många områden, finns det en viss logik att gå mot omröstning med kvalificerad majoritet där så är möjligt. I praktiken är kvalificerad majoritet när 15 av de 27 medlemsländerna röstar för något, så länge de tillsammans representerar mer än 65 procent av EU:s 450 miljoner medborgare.",
   "extraInfoLink_BE": "Läs mer",
@@ -25,7 +25,7 @@
   "extraInfoText_PL": "Liutauras Gudzinskas, professor i statsvetenskap vid Vilnius universitet, säger till Žinių Radijas att även om EU-kommissionens förslag att stärka mediernas mångfald och oberoende och skydda dem från politisk eller affärsmässig inblandning kan vara ett användbart förebyggande verktyg i många länder, så är det troligt. för sent för Ungern.",
   "extraInfoLink_PL": "Mer information",
   "extraInfoText_RO": "Trots att det är världspressfrihetsdagen den 3 maj, firar Litauen pressfriheten varje år den 7 maj – eftersom detta datum markerar slutet på tsarförbudet mot publicering och distribution av böcker på litauiska.",
-  "extraInfoLink_RO": "Kolla här",
+  "extraInfoLink_RO": "Kolla detta",
   "extraInfoText_SE": "",
   "extraInfoLink_SE": ""
 }
