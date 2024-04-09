@@ -1,12 +1,12 @@
 {
-  "heading": "Qual país lidera a imigração de países não pertencentes à UE para a UE?",
-  "subheading": "Em 2022, estimava-se que existiam 11 imigrantes de países terceiros por cada 1 000 residentes na UE. Malta registou a taxa mais elevada de imigração proveniente de países da UE e de países terceiros em 2022 (66 imigrantes por 1 000 residentes). Em contrapartida, a Eslováquia registou a taxa de imigração mais baixa, com 1 imigrante por cada 1 000 residentes.",
+  "heading": "Quem recebe mais migrantes?",
+  "subheading": "Em 2022, estimava-se que existiam 11 imigrantes não pertencentes à UE por 1 000 habitantes da UE, tendo Malta a taxa mais elevada (66 imigrantes por 1 000 habitantes) e a Eslováquia a taxa mais baixa (1 imigrante por 1 000 habitantes).",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "por 1000 residentes",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "A Bulgária, a Polónia, Portugal, a Eslováquia, a Finlândia, a Suécia e o Listenstaine não incluíram os refugiados da Ucrânia que beneficiam de proteção temporária nas suas estatísticas populacionais e de migração.",
+  "textNote": "A Bulgária, a Polónia, Portugal, a Eslováquia, a Finlândia, a Suécia e o Liechtenstein não incluíram os refugiados da Ucrânia que beneficiam de proteção temporária nas suas estatísticas populacionais e de migração.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Clique para mais informações"
