@@ -1,13 +1,13 @@
 {
   "heading": "Chi accoglie più migranti?",
-  "subheading": "Nel 2022, si stima che ci fossero 11 immigrati non UE ogni 1.000 abitanti dell'UE, con Malta che ha il tasso più alto (66 immigrati per 1.000 abitanti) e la Slovacchia che ha il tasso più basso (1 immigrato per 1.000 abitanti).",
+  "subheading": "Nel 2022 si stimava che ci fossero 11 immigrati extracomunitari ogni 1.000 abitanti dell'UE, con Malta che registrava il tasso più alto (66 immigrati ogni 1.000 abitanti) e la Slovacchia quello più basso (1 immigrato ogni 1.000 abitanti).",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "ogni 1000 residenti",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Bulgaria, Polonia, Portogallo, Slovacchia, Finlandia, Svezia e Liechtenstein non hanno incluso i rifugiati provenienti dall’Ucraina che beneficiano di protezione temporanea nelle loro statistiche sulla popolazione e sulla migrazione.",
+  "textNote": "Bulgaria, Polonia, Portogallo, Slovacchia, Finlandia, Svezia e Liechtenstein non hanno incluso nelle loro statistiche sulla popolazione e sulla migrazione i rifugiati provenienti dall'Ucraina che beneficiano di protezione temporanea.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

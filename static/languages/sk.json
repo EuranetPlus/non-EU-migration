@@ -1,12 +1,12 @@
 {
   "heading": "Kto prijíma najviac migrantov?",
-  "subheading": "Odhaduje sa, že v roku 2022 pripadalo na 1 000 obyvateľov EÚ 11 imigrantov z krajín mimo EÚ, pričom najvyšší podiel mal Malta (66 imigrantov na 1 000 obyvateľov) a najnižší podiel Slovensko (1 prisťahovalec na 1 000 obyvateľov).",
+  "subheading": "V roku 2022 pripadalo odhadom 11 imigrantov z krajín mimo EÚ na 1 000 obyvateľov EÚ, pričom najvyššiu mieru mala Malta (66 imigrantov na 1 000 obyvateľov) a najnižšiu Slovensko (1 imigrant na 1 000 obyvateľov).",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "na 1000 obyvateľov",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Bulharsko, Poľsko, Portugalsko, Slovensko, Fínsko, Švédsko a Lichtenštajnsko do svojich štatistík o obyvateľstve a migrácii nezahrnuli utečencov z Ukrajiny, ktorí využívajú dočasnú ochranu.",
+  "textNote": "Bulharsko, Poľsko, Portugalsko, Slovensko, Fínsko, Švédsko a Lichtenštajnsko nezahrnuli do svojich štatistík o obyvateľstve a migrácii utečencov z Ukrajiny, ktorí požívajú dočasnú ochranu.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Kliknite pre viac informácií"

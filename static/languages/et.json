@@ -1,12 +1,12 @@
 {
   "heading": "Kes võtab vastu kõige rohkem migrante?",
-  "subheading": "2022. aastal oli 1000 ELi elaniku kohta hinnanguliselt 11 väljastpoolt ELi pärit immigranti, kusjuures Maltal oli kõrgeim määr (66 immigranti 1000 elaniku kohta) ja Slovakkias (1 immigrant 1000 elaniku kohta).",
-  "legend1": "Andmed puuduvad",
+  "subheading": "2022. aastal oli hinnanguliselt 11 ELi-välist immigranti 1000 ELi elaniku kohta, kusjuures kõrgeim määr oli Maltal (66 immigranti 1000 elaniku kohta) ja madalaim Slovakkias (1 immigrant 1000 elaniku kohta).",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "1000 elaniku kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Bulgaaria, Poola, Portugal, Slovakkia, Soome, Rootsi ja Liechtenstein ei lisanud oma rahvastiku- ja rändestatistikasse Ukrainast pärit pagulasi, kes saavad ajutist kaitset.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Bulgaaria, Poola, Portugal, Slovakkia, Soome, Rootsi ja Liechtenstein ei lisanud oma rahvastiku- ja rändestatistikasse ajutise kaitse all olevaid Ukrainast pärit pagulasi.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

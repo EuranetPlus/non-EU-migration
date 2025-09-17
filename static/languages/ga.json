@@ -1,13 +1,13 @@
 {
-  "heading": "Cé a fhaigheann na himircigh is mó?",
-  "subheading": "In 2022, measadh go raibh 11 inimirceach neamh-AE in aghaidh gach 1 000 áitritheoir san AE, agus bhí an ráta ab airde ag Málta (66 inimirceach in aghaidh 1 000 áitritheoir) agus ag an tSlóvaic a raibh an ráta is ísle (1 inimirceach in aghaidh 1 000 áitritheoir).",
+  "heading": "Cé a fhaigheann an líon is mó imirceach?",
+  "subheading": "Meastar go raibh 11 inimirceach neamh-AE in aghaidh gach 1,000 áitritheoir san AE in 2022, agus an ráta is airde ag Málta (66 inimirceach in aghaidh gach 1,000 áitritheoir) agus an ráta is ísle ag an tSlóvaic (1 inimirceach in aghaidh gach 1,000 áitritheoir).",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "in aghaidh an 1000 cónaitheoir",
+  "tooltip1": "in aghaidh gach 1000 cónaitheoir",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Níor chuimsigh an Bhulgáir, an Pholainn, an Phortaingéil, an tSlóvaic, an Fhionlainn, an tSualainn agus Lichtinstéin dídeanaithe ón Úcráin a bhaineann leas as cosaint shealadach ina staitisticí daonra agus imirce.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Níor chuir an Bhulgáir, an Pholainn, an Phortaingéil, an tSlóvaic, an Fhionlainn, an tSualainn ná Lichtinstéin dídeanaithe ón Úcráin a bhaineann leas as cosaint shealadach san áireamh ina staitisticí daonra agus imirce.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

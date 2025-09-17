@@ -1,12 +1,12 @@
 {
-  "heading": "Qui accueille le plus de migrants ?",
-  "subheading": "En 2022, il y avait environ 11 immigrants non européens pour 1 000 habitants de l’UE, Malte ayant le taux le plus élevé (66 immigrants pour 1 000 habitants) et la Slovaquie ayant le taux le plus faible (1 immigrant pour 1 000 habitants).",
-  "legend1": "Pas de données disponibles",
+  "heading": "Qui reçoit le plus de migrants ?",
+  "subheading": "En 2022, on estimait à 11 le nombre d’immigrants non européens pour 1 000 habitants de l’UE, Malte ayant le taux le plus élevé (66 immigrants pour 1 000 habitants) et la Slovaquie le taux le plus bas (1 immigrant pour 1 000 habitants).",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "pour 1000 habitants",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "La Bulgarie, la Pologne, le Portugal, la Slovaquie, la Finlande, la Suède et le Liechtenstein n’ont pas inclus les réfugiés ukrainiens bénéficiant d’une protection temporaire dans leurs statistiques démographiques et migratoires.",
+  "textNote": "La Bulgarie, la Pologne, le Portugal, la Slovaquie, la Finlande, la Suède et le Liechtenstein n’ont pas inclus les réfugiés ukrainiens qui bénéficient d’une protection temporaire dans leurs statistiques de population et de migration.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Cliquez pour plus d'informations"
