@@ -1,12 +1,12 @@
 {
   "heading": "Tko prima najviše migranata?",
-  "subheading": "Procjenjuje se da je 2022. godine na 1000 stanovnika EU bilo 11 imigranata izvan EU, pri čemu je Malta imala najvišu stopu (66 imigranata na 1000 stanovnika), a Slovačka najnižu (1 imigrant na 1000 stanovnika).",
+  "subheading": "Procjenjuje se da je 2023. godine na 1000 stanovnika EU bilo 16 imigranata izvan EU, pri čemu je Malta imala najvišu stopu (78 imigranata na 1000 stanovnika), a Francuska najnižu (6 imigranata na 1000 stanovnika).",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "na 1000 stanovnika",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Bugarska, Poljska, Portugal, Slovačka, Finska, Švedska i Lihtenštajn nisu u svoje statistike stanovništva i migracija uključile izbjeglice iz Ukrajine koje imaju koristi od privremene zaštite.",
+  "textNote": "Bugarska, Poljska, Portugal, Slovačka, Finska i Švedska nisu u svoje statistike stanovništva i migracija uključile izbjeglice iz Ukrajine koje imaju koristi od privremene zaštite.",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Kliknite za više informacija"

@@ -1,13 +1,13 @@
 {
   "heading": "Wer nimmt die meisten Migranten auf?",
-  "subheading": "Im Jahr 2022 gab es schätzungsweise 11 Einwanderer aus Nicht-EU-Ländern pro 1.000 Einwohner der EU, wobei Malta die höchste Rate (66 Einwanderer pro 1.000 Einwohner) und die Slowakei die niedrigste (1 Einwanderer pro 1.000 Einwohner) aufwies.",
+  "subheading": "Im Jahr 2023 gab es schätzungsweise 16 Nicht-EU-Einwanderer pro 1.000 EU-Einwohner, wobei Malta die höchste Quote (78 Einwanderer pro 1.000 Einwohner) und Frankreich die niedrigste Quote (6 Einwanderer pro 1.000 Einwohner) aufwies.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "pro 1000 Einwohner",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Bulgarien, Polen, Portugal, die Slowakei, Finnland, Schweden und Liechtenstein haben Flüchtlinge aus der Ukraine, die vorübergehenden Schutz genießen, nicht in ihre Bevölkerungs- und Migrationsstatistiken aufgenommen.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Bulgarien, Polen, Portugal, die Slowakei, Finnland und Schweden haben die aus der Ukraine stammenden Flüchtlinge, die vorübergehenden Schutz genießen, nicht in ihre Bevölkerungs- und Migrationsstatistiken aufgenommen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Quem recebe mais migrantes?",
-  "subheading": "Em 2022, estimava-se que havia 11 imigrantes não pertencentes à UE por cada 1.000 habitantes da UE, com Malta a apresentar a taxa mais elevada (66 imigrantes por cada 1.000 habitantes) e a Eslováquia a apresentar a taxa mais baixa (1 imigrante por cada 1.000 habitantes).",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "por 1000 residentes",
+  "heading": "Quem recebe o maior número de migrantes?",
+  "subheading": "Em 2023, estimava-se que havia 16 imigrantes de fora da UE por cada 1.000 habitantes da UE, sendo Malta o país com a taxa mais alta (78 imigrantes por cada 1.000 habitantes) e a França a mais baixa (6 imigrantes por cada 1.000 habitantes).",
+  "legend1": "Não há dados disponíveis.",
+  "tooltip1": "por 1000 habitantes",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Bulgária, Polônia, Portugal, Eslováquia, Finlândia, Suécia e Liechtenstein não incluíram refugiados da Ucrânia que se beneficiam de proteção temporária em suas estatísticas populacionais e migratórias.",
+  "textNote": "Bulgária, Polônia, Portugal, Eslováquia, Finlândia e Suécia não incluíram os refugiados da Ucrânia que se beneficiam de proteção temporária em suas estatísticas de população e migração.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
   "textCountryClick": "Clique para mais informações"
