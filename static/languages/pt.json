@@ -1,6 +1,6 @@
 {
   "heading": "Quem recebe o maior número de migrantes?",
-  "subheading": "Em 2023, estimava-se que havia 16 imigrantes de fora da UE por cada 1.000 habitantes da UE, sendo Malta o país com a taxa mais alta (78 imigrantes por cada 1.000 habitantes) e a França a mais baixa (6 imigrantes por cada 1.000 habitantes).",
+  "subheading": "Em 2023, a UE acolheu 4,3 milhões de imigrantes, o que representa uma diminuição de 17,9% em relação aos 5,3 milhões registados em 2022. No geral, havia cerca de 10 imigrantes por cada 1.000 residentes da UE, com os números mais elevados registados em Malta (76 por cada 1.000 habitantes), Chipre (43) e Luxemburgo (40).",
   "legend1": "Não há dados disponíveis.",
   "tooltip1": "por 1000 habitantes",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Observação",
   "textNote": "Bulgária, Polônia, Portugal, Eslováquia, Finlândia e Suécia não incluíram os refugiados da Ucrânia que se beneficiam de proteção temporária em suas estatísticas de população e migração.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-2",
   "textCountryClick": "Clique para mais informações"
 }

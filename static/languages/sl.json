@@ -1,6 +1,6 @@
 {
   "heading": "Kdo sprejme največ migrantov?",
-  "subheading": "Leta 2023 je bilo na 1000 prebivalcev EU ocenjenih 16 priseljencev iz držav zunaj EU, pri čemer je imela Malta najvišjo stopnjo (78 priseljencev na 1000 prebivalcev), Francija pa najnižjo stopnjo (6 priseljencev na 1000 prebivalcev).",
+  "subheading": "Leta 2023 je EU sprejela 4,3 milijona priseljencev, kar je 17,9 % manj kot 5,3 milijona, zabeleženih leta 2022. Skupno je bilo približno 10 priseljencev na 1000 prebivalcev EU, največje število pa je bilo zabeleženo na Malti (76 na 1000 prebivalcev), Cipru (43) in v Luksemburgu (40).",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "na 1000 prebivalcev",
   "textSourceDescription": "Vir",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Opomba",
   "textNote": "Bolgarija, Poljska, Portugalska, Slovaška, Finska in Švedska v svojo statistiko prebivalstva in migracij niso vključile beguncev iz Ukrajine, ki uživajo začasno zaščito.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-2",
   "textCountryClick": "Kliknite za več informacij"
 }
