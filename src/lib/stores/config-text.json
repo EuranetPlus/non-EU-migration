@@ -1,6 +1,6 @@
 {
   "heading": "Who receives the most migrants?",
-  "subheading": "In 2023, there were an estimated 16 non-EU immigrants per 1 000 EU inhabitants, with Malta having the highest rate (78 immigrants per 1 000 inhabitants) and France having the lowest rate (6 immigrant per 1 000 inhabitants).",
+  "subheading": "In 2023, the EU welcomed 4.3 million immigrants, which was a 17.9% decrease from the 5.3 million recorded in 2022. Overall, there were around 10 immigrants for every 1,000 EU residents, with the highest numbers recorded in Malta (76 per 1,000 inhabitants), Cyprus (43) and Luxembourg (40).",
   "legend1": "No data available",
   "tooltip1": "per 1000 residents",
   "textSourceDescription": "Source",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Bulgaria, Poland, Portugal, Slovakia, Finland and Sweden did not include refugees from Ukraine who benefit from temporary protection in their population and migration statistics.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240327-1",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-2",
   "textCountryClick": "Click for more info"
 }
